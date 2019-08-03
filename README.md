@@ -1,2 +1,5 @@
 # hello-world
-GItHub testing
+
+Hi humans!
+
+This is a test for git hub
